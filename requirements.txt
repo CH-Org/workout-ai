@@ -1,0 +1,12 @@
+###### Install Requirements
+###### pip install -r requirements.txt
+python-dotenv
+#openai
+langchain
+langchain_openai
+langchain-community
+pandas
+langgraph
+pygraphviz
+###graphviz requires 'sudo apt-get install python3-dev graphviz libgraphviz-dev pkg-config'
+grandalf
